@@ -1,13 +1,13 @@
 {
     "bot-account":{ 
-        "username": "ChunkLoader",
+        "username": "DanBotE",
         "password": "",
-        "type": "mojang"
+        "type": "crack"
     },
 
     "server":{
-        "ip": "owariuk.mc-srv.com",
-        "port": 26232,
+        "ip": "ult9.falix.gg",
+        "port": 37427,
         "version": "1.18.1"
     },
 
@@ -35,10 +35,10 @@
             "repeat-delay": 360,
 
             "messages": [
-                "Hai Semuwa ", 
-                "SanZ Gay ", 
-                "Cookie Tolol", 
-                "Test "
+                "Hi everyone! ", 
+                "Can I ask somenthing? ", 
+                "Are You Adopted nerd?", 
+                "Yes you are "
             ]
         },
 
